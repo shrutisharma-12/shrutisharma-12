@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shruti Sharma</h1>
 <h3 align="center">A curious developer building with code, cloud, and creativity.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shrutisharma-12&label=Profile%20views&color=0e75b6&style=flat" alt="shrutisharma-12" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shrutisharma-12" alt="shrutisharma-12" /></a> </p>
-
 - 🔭 I’m currently working on **AI-Based Interactive Quantum Algorithm Learning Platform SIH 2026 • React • TypeScript • Qiskit • FastAPI**
 
 - 🌱 I’m currently learning **DSA with Java • AWS Cloud • Android App Developmen**
